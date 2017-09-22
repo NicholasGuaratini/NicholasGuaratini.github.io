@@ -1,1 +1,0 @@
-# NicholasGuaratini.github.io
