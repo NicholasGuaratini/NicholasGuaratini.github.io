@@ -47,6 +47,11 @@ p {
   margin-bottom: 1.5em;
 }
 
+downloadResume{
+  width: 5px;
+  height: 5px;
+  color: #fff;
+}
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-family: "Source Sans Pro", Arial, sans-serif;
