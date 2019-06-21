@@ -47,11 +47,18 @@ p {
   margin-bottom: 1.5em;
 }
 
-downloadResume{
-  width: 5px;
-  height: 5px;
-  color: #fff;
+.responsive {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
 }
+
+.responsive2 {
+  width: 100%;
+  max-width: 64px;
+  height: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-family: "Source Sans Pro", Arial, sans-serif;
