@@ -59,6 +59,12 @@ p {
   height: auto;
 }
 
+.responsive3 {
+  width: 100%;
+  max-width: 75px;
+  height: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-family: "Source Sans Pro", Arial, sans-serif;
